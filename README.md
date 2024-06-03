@@ -38,7 +38,7 @@ To run this program, you need to have Python installed on your system.
    Clone or download this repository to your local machine.
 
    ```sh
-   git clone https://github.com/yourusername/calculator.git
+   git clone https://github.com/Lokesh-666/basic-calculator.github.io.git
    ```
 
    Navigate to the directory where you have saved the code.
